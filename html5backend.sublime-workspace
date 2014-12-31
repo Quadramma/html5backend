@@ -1,0 +1,676 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"roo",
+				"rootScope"
+			],
+			[
+				"fonts",
+				"fonts_bootstrap"
+			],
+			[
+				"view",
+				"viewName"
+			],
+			[
+				"temp",
+				"templateCache"
+			],
+			[
+				"dist",
+				"distdir"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"modal",
+				"modalFixedArr"
+			],
+			[
+				"google",
+				"googleTranslateElementInit"
+			],
+			[
+				"fullW",
+				"fullWidthSlider"
+			],
+			[
+				"crea",
+				"createWarrior"
+			],
+			[
+				"twe",
+				"tween1"
+			],
+			[
+				"twee",
+				"tween2"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"ti",
+				"titleText"
+			],
+			[
+				"leng",
+				"lenguageReady"
+			],
+			[
+				"play",
+				"playButton"
+			],
+			[
+				"fil",
+				"fillStyle"
+			],
+			[
+				"isVa",
+				"isValidVar"
+			],
+			[
+				"isVal",
+				"isValidVarNumber"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"retr",
+				"return"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "client/src/app/ctrls/syngenta.planes.index.ctrls.js",
+			"settings":
+			{
+				"buffer_size": 416,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/src/app/templates/syngenta.planes/index.tpl.html",
+			"settings":
+			{
+				"buffer_size": 724,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/src/app/servs/api.serv.js",
+			"settings":
+			{
+				"buffer_size": 7975,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/gruntFile.js",
+			"settings":
+			{
+				"buffer_size": 7287,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/src/app/servs/time.serv.js",
+			"settings":
+			{
+				"buffer_size": 532,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/javi/git/html5backend",
+		"/home/javi/git/html5backend/client",
+		"/home/javi/git/html5backend/client/src",
+		"/home/javi/git/html5backend/client/src/app",
+		"/home/javi/git/html5backend/client/src/app/ctrls",
+		"/home/javi/git/html5backend/client/src/app/servs",
+		"/home/javi/git/html5backend/client/src/app/templates",
+		"/home/javi/git/html5backend/client/src/app/templates/syngenta.planes"
+	],
+	"file_history":
+	[
+		"/etc/apt/sources.list",
+		"/tmp/fz3temp-1/index.php",
+		"/home/javi/git/html5backend/client/gruntFile.js",
+		"/home/javi/git/html5backend/client/src/app/servs/time.serv.js",
+		"/home/javi/git/html5backend/client/src/app/servs/_servs.js",
+		"/home/javi/git/html5backend/client/src/app/app.js",
+		"/home/javi/git/html5backend/client/src/app/servs/session.serv.js",
+		"/home/javi/git/qjarvis.client/src/js/services/localSessionService.js",
+		"/usr/bin/X11/subl",
+		"/home/javi/git/html5backend/client/src/app/templates/syngenta.partials/menu.tpl.html",
+		"/home/javi/git/html5backend/client/dist/html5backend.js",
+		"/home/javi/git/html5backend/client/src/app/ctrls/_ctrls.js",
+		"/home/javi/git/html5backend/client/src/app/templates/syngenta.planes/index.tpl.html",
+		"/home/javi/git/html5backend/client/src/app/servs/mongolabResourceHttp.serv.js",
+		"/home/javi/git/html5backend/client/src/app/templates/syngenta.planes/alta.tpl.html",
+		"/home/javi/git/html5backend/client/src/app/templates/syngenta.planes/baja.tpl.html",
+		"/home/javi/git/html5backend/client/src/app/templates/syngenta.planes/modi.tpl.html",
+		"/home/javi/git/html5backend/client/src/app/ctrls/syngenta.planes.index.ctrls.js",
+		"/home/javi/git/html5backend/client/src/index.html",
+		"/home/javi/git/html5backend/client/src/app/templates/syngenta.login/index.tpl.html",
+		"/home/javi/git/html5backend/client/src/app/templates/common/debug_toolbar.tpl.html",
+		"/home/javi/git/html5backend/client/src/app/templates/syngenta.partials/header.tpl.html",
+		"/home/javi/git/html5backend/client/snippets/dropdownmenuui/dropdownmenuui.css",
+		"/home/javi/git/html5backend/client/src/app/templates/syngenta.partials/header.menu.tpl.html",
+		"/home/javi/git/html5backend/client/src/css/general.css",
+		"/home/javi/git/html5backend/client/snippets/menublack/menublack.css",
+		"/home/javi/git/html5backend/client/src/app/ctrls/common.user.ctrls.js",
+		"/home/javi/git/html5backend/client/src/app/servs/api.serv.js",
+		"/home/javi/git/html5backend/client/src/app/templates/common.user/index.tpl.html",
+		"/home/javi/git/html5backend/client/src/app/routes/common.user.routes.js",
+		"/home/javi/git/html5backend/client/src/app/templates/syngenta.planes/consulta.tpl.html",
+		"/home/javi/git/html5backend/client/src/app/templates/syngenta.home/index.tpl.html",
+		"/home/javi/git/html5backend/client/src/app/templates/syngenta.partials",
+		"/home/javi/git/html5backend/client/dist/css/local.css",
+		"/home/javi/git/html5backend/client/src/app/routes/_routes.js",
+		"/home/javi/git/html5backend/client/src/app/routes/syngenta.routes.js",
+		"/home/javi/git/html5backend/client/vendor/rLite.js",
+		"/home/javi/git/html5backend/client/src/app/ctrls/syngenta.home.ctrls.js",
+		"/home/javi/git/html5backend/client/src/app/templates/common.home/index.tpl.html",
+		"/home/javi/git/html5backend/client/dist/templates/app.js",
+		"/home/javi/git/html5backend/client/src/app/templates/syngenta/home.tpl.html",
+		"/home/javi/git/html5backend/client/src/app/ctrls/user/ctrls.js",
+		"/home/javi/git/html5backend/client/src/app/ctrls/syngenta/syngenta.home.ctrl.js",
+		"/home/javi/git/html5backend/client/package.json",
+		"/home/javi/git/html5backend/client/dist/index.html",
+		"/home/javi/git/html5backend/client/dist/temp/local.css",
+		"/home/javi/git/html5backend/client/vendor/bower_components/jquery/jquery.js",
+		"/home/javi/git/html5backend/client/vendor/bower_components/jquery/jquery",
+		"/home/javi/git/html5backend/client/vendor/bower_components/jquery/jquery.min.js",
+		"/home/javi/git/html5backend/client/vendor/bower_components/jquery/dist/jquery.js",
+		"/home/javi/git/html5backend/client/src/index.html.bak",
+		"/home/javi/git/html5backend/client/src/css/html5backend.general.css",
+		"/home/javi/git/color-botanico/public/css/cbotanico.css",
+		"/home/javi/git/color-botanico/public/views/gallery.html",
+		"/home/javi/git/color-botanico/public/views/services.html",
+		"/home/javi/git/color-botanico/public/views/home.html",
+		"/home/javi/git/color-botanico/public/views/partial.header.html",
+		"/home/javi/git/color-botanico/public/views/apartamentsC.html",
+		"/home/javi/git/color-botanico/public/index.html",
+		"/home/javi/Downloads/startbootstrap-thumbnail-gallery-gh-pages/index.html",
+		"/home/javi/git/color-botanico/public/js/qjarvis.ctrls.js",
+		"/home/javi/git/color-botanico/public/views/partials/form.dtpTo.html",
+		"/home/javi/git/color-botanico/public/views/partials/form.dtpFrom.html",
+		"/home/javi/git/color-botanico/public/views/contact.html",
+		"/home/javi/git/color-botanico/public/js/colorBotanicoCtrls.js",
+		"/home/javi/git/color-botanico/public/js/colorBotanicoRoutes.js",
+		"/home/javi/git/color-botanico/public/views/partial.selectCountry.html",
+		"/home/javi/git/color-botanico/public/js/main.js",
+		"/home/javi/git/color-botanico/public/js/qjarvis.routes.js",
+		"/home/javi/git/color-botanico/public/js/qjarvis.config.js",
+		"/home/javi/git/color-botanico/public/js/qjarvis.api.js",
+		"/home/javi/git/color-botanico/public/js/qjarvis.lang.js",
+		"/home/javi/git/color-botanico/public/js/myRoutes.js",
+		"/home/javi/git/color-botanico/public/js/vendor/bootstrap-datetimepicker.min.js",
+		"/home/javi/git/color-botanico/public/css/selectize.bootstrap3.css",
+		"/home/javi/git/color-botanico/public/js/vendor/selectize.min.js",
+		"/home/javi/git/color-botanico/public/views/location.html",
+		"/home/javi/git/color-botanico/public/views/apartamentsA.html",
+		"/home/javi/git/color-botanico/public/views/apartamentsB.html",
+		"/home/javi/git/color-botanico/public/css/qjarvis.common.css",
+		"/home/javi/git/color-botanico/color-botanico.sublime-project",
+		"/home/javi/git/color-botanico/public/views/apartaments.html",
+		"/home/javi/git/color-botanico/public/views/home2.html",
+		"/home/javi/git/color-botanico/public/js/snippets.js",
+		"/home/javi/git/color-botanico/public/js/myApiServ.js",
+		"/home/javi/git/color-botanico/css.py",
+		"/home/javi/git/color-botanico/public/js/myLangServ.js",
+		"/home/javi/git/color-botanico/public/views/partial.header2.html",
+		"/home/javi/git/color-botanico/public/views/partial.footer.html",
+		"/home/javi/git/color-botanico/public/views/snippet.sliderfullwidth.html",
+		"/home/javi/git/color-botanico/public/js/myConfig.js",
+		"/home/javi/git/color-botanico/public/js/langService.js",
+		"/home/javi/git/color-botanico/public/views/partial.layout.html",
+		"/home/javi/git/color-botanico/public/views/content.notfound.html",
+		"/home/javi/git/node-webkit-boilerplate/gulpfile.js",
+		"/home/javi/git/slider/demo/index.html",
+		"/home/javi/git/slider/demo/demo.css",
+		"/home/javi/git/flambe/flambe.yaml",
+		"/home/javi/git/mpanda/src/spartan/db.js",
+		"/home/javi/git/mpanda/src/mo/helper.js",
+		"/home/javi/git/mpanda/media/language.json",
+		"/home/javi/git/mpanda/src/spartan/basecamp.js",
+		"/home/javi/git/mpanda/src/mo/language.js",
+		"/home/javi/git/mpanda/src/spartan/warrior.js",
+		"/home/javi/git/mpanda/src/spartan/helper.js",
+		"/home/javi/git/mpanda/src/spartan/battle.js",
+		"/home/javi/git/mpanda/src/spartan/assets.js",
+		"/home/javi/git/mpanda/src/spartan/core.js",
+		"/home/javi/git/mpanda/src/game/main.js",
+		"/home/javi/git/mpanda/src/spartan/menu.js",
+		"/home/javi/git/mpanda/src/game/config.js",
+		"/home/javi/git/mpanda/docs/radsToDeg.txt",
+		"/home/javi/git/mpanda/src/spartan/helper",
+		"/home/javi/git/mpanda/src/game/assets.js",
+		"/home/javi/git/mpanda/language.json",
+		"/home/javi/git/mpanda/meteor/client/views/layouts/gameLayout.html",
+		"/home/javi/git/mpanda/meteor/client/views/layouts/mainLayout.html",
+		"/home/javi/git/mpanda/meteor/client/views/game/game.less",
+		"/home/javi/git/mpanda/meteor/client/views/game/game.js",
+		"/home/javi/git/mpanda/meteor/client/views/game/game.html",
+		"/home/javi/git/mpanda/meteor/client/views/index.html",
+		"/home/javi/git/mpanda/meteor/client/views/home/home.less",
+		"/home/javi/git/mpanda/meteor/routes.js",
+		"/home/javi/Documents/meteor_android.txt",
+		"/home/javi/git/mpanda/meteor/client/router/config.js",
+		"/home/javi/git/mpanda/src/game/spartan/spartan.core.js",
+		"/home/javi/git/mpanda/src/game/spartan/spartan.menu.js",
+		"/home/javi/git/mpanda/src/game/objects.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+			"*.js",
+			"*.html",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"store",
+			"QJLocal",
+			"controller",
+			".apply",
+			"$resource",
+			"resource",
+			"ws.p",
+			"ws.get",
+			"get",
+			"pkg",
+			"ngRoute",
+			"recess",
+			"default",
+			"src",
+			"less",
+			"bootstrap",
+			"separat",
+			"768",
+			"meida",
+			"1024",
+			"body",
+			"country",
+			"thumb",
+			"anchorScroll",
+			"slide-text-container",
+			"apartACarousel",
+			"block",
+			"center",
+			"block",
+			"row",
+			"googleTranslateElementInit",
+			"$ws",
+			"createText",
+			"drawRect",
+			"createRec",
+			"createTe",
+			"self.player",
+			"titleText",
+			"Loader",
+			"start",
+			"addFileToQueue",
+			"assetQueue",
+			"addFileToQueue",
+			"asset",
+			"addFileToQueue",
+			"assetQ",
+			"addFileToQueue",
+			"queue",
+			"addFileToQueue",
+			"main",
+			"size",
+			"setInteractive",
+			"_interactive",
+			"collectInteractiveSprite",
+			"interactiveItems",
+			"tap",
+			"onTouchStart",
+			".tap",
+			"pixi",
+			"PIXI",
+			"opts",
+			"self.player",
+			"body",
+			"Sprite",
+			"sprite",
+			"loadScript",
+			"sourceFolder",
+			"pool",
+			"loadScript",
+			"loadModule",
+			"mo",
+			"loadModules",
+			"requires",
+			"coreModules",
+			"game",
+			"boot"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$api",
+			"sectionTitle",
+			"p",
+			"sprite",
+			"game"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "client/src/app/ctrls/syngenta.planes.index.ctrls.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 416,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								354,
+								354
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "client/src/app/templates/syngenta.planes/index.tpl.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 724,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								516,
+								516
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client/src/app/servs/api.serv.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7975,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								173,
+								173
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "client/gruntFile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7287,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5216,
+								5216
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2160.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "client/src/app/servs/time.serv.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 532,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								521,
+								521
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 57.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "html5backend.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ctrl",
+				"public/js/colorBotanicoCtrls.js"
+			],
+			[
+				"coroutes",
+				"public/js/colorBotanicoRoutes.js"
+			],
+			[
+				"main",
+				"public/js/main.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/git/color-botanico/color-botanico.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 475.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,37 @@
+<div ng-controller="syngentaPlanesIndexCtrl">
+	<ul class="breadcrumb">
+		<li class="active">Planes</li>
+	</ul>
+
+	<!--
+	<h1>PLANES DE MARKETING</h1>
+	<button class="clickable" ng-click="link('/planes/alta')">ALTA</button>
+	<button class="clickable" ng-click="link('/planes/modi')">MODI</button>
+	<button class="clickable" ng-click="link('/planes/baja')">BAJA</button>
+	-->
+
+	<div class="table-responsive">
+  <table class="table">
+  		<thead>
+  			<tr>
+  				<td>
+  					Titulo
+  				</td>
+  				<td>
+  					Descripcion
+  				</td>
+  			</tr>
+  		</thead>
+    	<tr ng-repeat="item in items">
+    		<td>
+    			{{item.titulo}}
+    		</td>
+    		<td>
+    			{{item.descripcion}}
+    		</td>
+    	</tr>
+  </table>
+</div>
+
+
+</div>

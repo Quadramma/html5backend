@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="app" ng-controller="appCtrl">
+<head>
+  <link rel="stylesheet" type="text/css" href="/temp/local.css"/>
+  <link rel="stylesheet" type="text/css" href="/<%= grunt.config.get('pkg.name') %>.css"/>
+  <script type="text/javascript" src="/jquery.js"></script>
+  <script type="text/javascript" src="/angular.js"></script>
+  <script type="text/javascript" src="/mongolab.js"></script>
+  <script type="text/javascript" src="/bootstrap.js"></script>
+  <script type="text/javascript" src="/<%= grunt.config.get('pkg.name') %>.js"></script>
+</head>
+
+<body>
+  <div ng-include="'header.tpl.html'"></div>
+  <div ng-view="content"></div>
+</body>
+</html>

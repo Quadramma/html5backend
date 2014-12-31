@@ -1,0 +1,1 @@
+angular.module('servs', ['api-serv', 'time-serv', 'session-serv']);

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="app" ng-controller="appCtrl">
+  <head>
+    <title>{{appName}}</title>
+    <link rel="stylesheet" type="text/css" href="/css/local.css"/>
+    <link rel="stylesheet" type="text/css" href="/css/bootstrap.css"/>
+    <script type="text/javascript" src="/bootstrap.js"></script>
+    <script type="text/javascript" src="/mongolab.js"></script>
+    <script type="text/javascript" src="/<%= grunt.config.get('pkg.name') %>.js"></script>
+  </head>
+  <body>
+    
+    <div class="container" ng-show='debug'>
+      <div class="row">
+        <div class="col-lg-12">
+          <div ng-include src="'templates/common/debug_toolbar.tpl.html'"></div>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div ng-include src="'templates/syngenta.partials/header.tpl.html'"></div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="container" ng-show="logged">
+      <div class="row">
+        <div class="col-sm-12 col-md-3">
+          <div ng-include src="'templates/syngenta.partials/menu.tpl.html'"></div>
+        </div>
+        
+        <div class="col-sm-12 col-md-9 well">
+          <div ng-show="view.home"  ng-include="'templates/syngenta.home/index.tpl.html'"></div>
+          <div ng-show="view.users"   ng-include="'templates/common.user/index.tpl.html'"></div>
+          <div ng-show="view.planes"      ng-include="'templates/syngenta.planes/index.tpl.html'"></div>
+          <div ng-show="view.planes_alta"   ng-include="'templates/syngenta.planes/alta.tpl.html'"></div>
+          <div ng-show="view.planes_baja"   ng-include="'templates/syngenta.planes/baja.tpl.html'"></div>
+          <div ng-show="view.planes_modi"   ng-include="'templates/syngenta.planes/modi.tpl.html'"></div>
+        </div>
+      </div>
+    </div>
+    <div class="container" ng-show="!logged">
+      <div class="row">
+        <div class="visible-lg col-lg-4"></div>
+        <div class="col-lg-4">
+          <div   ng-include="'templates/syngenta.login/index.tpl.html'"></div>
+          <div class="visible-lg col-lg-4"></div>
+        </div>
+      </div>
+      
+    </body>
+  </html>
